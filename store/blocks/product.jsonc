@@ -29,7 +29,8 @@
   "product-brand": {
     "props": {
       "height": 30,
-      "excludeBrands": []
+      "excludeBrands": [],
+      "fallbackToText": true
     }
   },
   "flex-layout.col#right": {
