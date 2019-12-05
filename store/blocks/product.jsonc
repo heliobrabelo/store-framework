@@ -30,7 +30,6 @@
     "props": {
       "height": 30,
       "initialSelection": ["empty"],
-      "showValueNameForImageVariation": true,
       "showVariationsLabels": true,
       "showVariationsErrorMessage": true
     }
