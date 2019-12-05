@@ -30,7 +30,9 @@
     "props": {
       "height": 30,
       "excludeBrands": [],
-      "fallbackToText": true
+      "showValueNameForImageVariation": true,
+      "showVariationsLabels": true,
+      "showVariationsErrorMessage": true
     }
   },
   "flex-layout.col#right": {
