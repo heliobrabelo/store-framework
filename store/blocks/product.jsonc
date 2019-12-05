@@ -29,7 +29,7 @@
   "product-brand": {
     "props": {
       "height": 30,
-      "initialSelection": [2],
+      "initialSelection": 2,
       "showVariationsLabels": true,
       "showVariationsErrorMessage": true
     }
