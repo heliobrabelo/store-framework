@@ -28,6 +28,8 @@
       "product-name",
       "product-identifier.product",
       "product-price",
+      "sku-selector",
+      "product-quantity",
       "flex-layout.row#qty-sku",
       "buy-button"
     ]
