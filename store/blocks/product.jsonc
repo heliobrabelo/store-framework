@@ -28,10 +28,7 @@
   },
   "product-brand": {
     "props": {
-      "height": 30,
-      "initialSelection": "empty",
-      "showValueNameForImageVariation": true,
-      "showVariationsErrorMessage": true
+      "height": 30
     }
   },
   "flex-layout.col#right": {
@@ -43,7 +40,6 @@
       "product-name",
       "product-identifier.product",
       "product-price",
-      "sku-selector",
       "product-quantity",
       "flex-layout.row#qty-sku",
       "shipping-simulator",
@@ -61,5 +57,12 @@
       "sku-selector",
       "product-quantity"
     ]
+  },
+  "sku-selector": {
+    "props": {
+      "initialSelection": "empty",
+      "showValueNameForImageVariation": true,
+      "showVariationsErrorMessage": true
+    }
   }
 }
